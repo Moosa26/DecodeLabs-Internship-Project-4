@@ -34,7 +34,7 @@ DecodeLabs-Internship-Project-4/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/DecodeLabs-Internship-Project-4.git
+git clone https://github.com/Moosa26/DecodeLabs-Internship-Project-4.git
 ```
 
 Move into the project directory:
